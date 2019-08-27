@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+span{
+color: white;
+background: black;
+padding:20px;
+border-right-style: solid;
+top : 20px;
+}
+p{
+    padding-top:50px;
+    color: red;
+    font-weight: bold;
+}
