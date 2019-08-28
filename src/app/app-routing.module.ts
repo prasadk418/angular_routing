@@ -18,6 +18,10 @@ const routes: Routes = [
   {
     path : 'books',
     loadChildren : './books/books.module#BooksModule'
+  },
+  {
+    path : 'lib',
+    loadChildren : './library/library.module#LibraryModule'
   }
   
 ];
